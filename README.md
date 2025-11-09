@@ -1,5 +1,5 @@
 # personal-shell-scripts
-Shell scripts for personal usage.
+Some shell scripts I write during development, to write some little tools for the ease of feature usage.
 
 run following command if placed in Virtualbox Shared Folder
 ```
